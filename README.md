@@ -6,6 +6,15 @@ This is a simple 2d platformer fan game, all nintendo art assets do not belong t
 I have written the event driven animation scheme, collission detection, character physics, scene architecture, and game logic. 
 This game is targeted for iphone 8 through XS, and uses a MVC pattern.
 
+![](menuscenedemo_v4.gif)
+
+![](honeypottrackdemo_v4.gif)
+
+![](bossdemo_v3.gif)
+
+![](lvl3demov5.gif)
+
+![](lvl3desroom.gif)
 
 Technical details:
 
@@ -34,15 +43,6 @@ Technical details:
 The gifs may take some time to load due to the filesize, any FPS tags are slower than on actual device (gifs captured using third party software).
 
 
-![](menuscenedemo_v4.gif)
-
-![](honeypottrackdemo_v4.gif)
-
-![](bossdemo_v3.gif)
-
-![](lvl3demov5.gif)
-
-
 Credits for art assets ripped by:
 
 Garact Jownson-Some background objects from metroid fusion
@@ -63,7 +63,7 @@ ansimuz-Space parallax backround (menu scene background)
 
 Bob Bobium-Human Station Menuscene (space colony ceres), Door sprites
 
-Greiga Master-Chozo Statue, Nettori boss
+Greiga Master-Chozo Statue, Nettori boss, Dessgeega
 
 Cha0sMiles07 & Ngamer-Samus Projectile sprites
 
